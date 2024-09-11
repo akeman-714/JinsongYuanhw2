@@ -1,0 +1,1 @@
+select * from news.intrusion limit 5
